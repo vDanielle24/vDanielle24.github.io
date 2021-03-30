@@ -8,7 +8,7 @@ I am a responsible, self-reliant and hardworking individual who is passionate ab
 
 ### Career goals
 
-I want to become a fully qualified actuary in the near future and I’m currently writing the last couple of actuarial exams. I want to work with people to provide innovative digital solutions to problems. 
+I want to work with people to provide innovative digital solutions to problems. Ultimately, I would like to start my own company. 
 
 ### Work experience
 
@@ -28,6 +28,11 @@ Some tasks that I was involved in:
 * Monitoring | Built and managed processes through SQL, Python and PowerBI to ensure the continual monitoring of the direct business. Also responsible to present the results to business.
 
 ### Academic background
+
+#### Mphil in Financial Technology
+##### University of Cape Town, South Africa.
+##### Mar 2021 – Current
+
 #### Honours and Undergraduate degree in Actuarial Science 
 ##### North West University, Potchefstroom Campus, South Africa.
 ##### Jan 2015 – Dec 2019
