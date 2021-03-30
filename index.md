@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg" width="300" height="400"/>
+<img src="https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg" width="260" height="400"/>
 </p>
 
 ## A brief bio
@@ -12,8 +12,8 @@ I want to become a fully qualified actuary in the near future and I’m currentl
 
 ### Work experience
 
-####ABSA Insurance Company
-#####Actuarial Analyst | Johannesburg, South Africa | Feb 2019 – present
+#### ABSA Insurance Company
+##### Actuarial Analyst | Johannesburg, South Africa | Feb 2019 – present
 
 Gained experience in the short term insurance industry covering multiple sales channels (bank assurance, brokers and direct) as well as multiple products (homeowners, motor, telematics, householders, rental default and warranties). 
 
@@ -28,7 +28,7 @@ Some tasks that I was involved in:
 * Monitoring | Built and managed processes through SQL, Python and PowerBI to ensure the continual monitoring of the direct business. Also responsible to present the results to business.
 
 ### Academic background
-####Honours and Undergraduate degree in Actuarial Science 
+#### Honours and Undergraduate degree in Actuarial Science 
 (Cum Laude with an 83% average and 86% average respectively)
 Jan 2015 – Dec 2019
 North West University, Potchefstroom Campus, South Africa.
