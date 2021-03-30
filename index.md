@@ -6,24 +6,6 @@ I am a responsible, self-reliant and hardworking individual who is passionate ab
 
 I want to become a fully qualified actuary in the near future and I’m currently writing the last couple of actuarial exams. I want to work with people to provide innovative digital solutions to problems. 
 
-![Danielle](https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg)
+![Danielle](https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg =250x250)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Danielle.jpg](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
