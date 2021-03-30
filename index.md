@@ -21,7 +21,7 @@ Involved with various pricing, analytics and data driven decision making tasks. 
 
 Some tasks that I was involved in:
 
-* Pricing | Priced various products such as extended warranties, scratch and dent, tyre and rim and rental default insurance. Helped with telematics (including a rewards program) and homeowners pricing
+* Pricing - Priced various products such as extended warranties, scratch and dent, tyre and rim and rental default insurance. Helped with telematics (including a rewards program) and homeowners pricing
 * Development and launch of a new product | Helped develop a new rental insurance product from ideation phase to implementation. I gained skills in various aspects including: product development, business case preparation, financial modelling, risk management, stakeholder management, systems development, marketing and product underwriting. 
 * Modelling | Worked on various modelling projects including: a new remuneration model for call centre staff in the direct business, policyholder survival predictive model, call centre capacity modelling.
 * Analytics | Various analytics tasks such as calculating minimum premium requirements, maximum sum insureds, assisting in budget forecasts, developing a new renewal process for the direct business, call centre capacity modelling, developing business retention strategies and providing insights and solutions on various other matters.
