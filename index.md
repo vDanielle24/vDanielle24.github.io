@@ -1,4 +1,6 @@
-<img src="https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg" width="300" height="400">
+<p align="center">
+<img src="https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg" width="300" height="400"/>
+</p>
 
 ## A brief bio
 
