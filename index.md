@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+## A brief bio
 
-You can use the [editor on GitHub](https://github.com/vDanielle24/vDanielle24.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a responsible, self-reliant and hardworking individual who is passionate about changing the environment around me for the better. I love learning new things and challenging conventions. I am a critical thinker and a solutionist. I enjoy solving complex problems and my strong analytical background assists me in doing so. I have a business orientated mind-set and I think practically when solving problems. I love working with people, as well as leading them. I believe an optimistic mind set is key for any organisation to flourish and I encourage this through my own example in the teams I work with.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Career goals
 
-### Markdown
+I want to become a fully qualified actuary in the near future and I’m currently writing the last couple of actuarial exams. I want to work with people to provide innovative digital solutions to problems. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+ ![Danielle.jpg](src)
 ```markdown
 Syntax highlighted code block
 
@@ -27,11 +27,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vDanielle24/vDanielle24.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
