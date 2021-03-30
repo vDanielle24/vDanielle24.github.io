@@ -29,9 +29,10 @@ Some tasks that I was involved in:
 
 ### Academic background
 #### Honours and Undergraduate degree in Actuarial Science 
-(Cum Laude with an 83% average and 86% average respectively)
-Jan 2015 – Dec 2019
-North West University, Potchefstroom Campus, South Africa.
+##### North West University, Potchefstroom Campus, South Africa.
+##### Jan 2015 – Dec 2019
+Cum Laude with an 83% average and 86% average respectively
+
 
 ### Affilations
 I am currently a TASSA member of the Actuarial Society of South Africa (ASSA), with 10 actuarial exemptions.
