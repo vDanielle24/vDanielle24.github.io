@@ -10,6 +10,34 @@ I am a responsible, self-reliant and hardworking individual who is passionate ab
 
 I want to become a fully qualified actuary in the near future and I’m currently writing the last couple of actuarial exams. I want to work with people to provide innovative digital solutions to problems. 
 
+### Work experience
+
+####ABSA Insurance Company
+#####Actuarial Analyst | Johannesburg, South Africa | Feb 2019 – present
+
+Gained experience in the short term insurance industry covering multiple sales channels (bank assurance, brokers and direct) as well as multiple products (homeowners, motor, telematics, householders, rental default and warranties). 
+
+Involved with various pricing, analytics and data driven decision making tasks. A strong technical and programming background was essential to provide innovative solutions, as well as great people skills to engage with and manage various stakeholders.
+
+Some tasks that I was involved in:
+
+* Pricing | Priced various products such as extended warranties, scratch and dent, tyre and rim and rental default insurance. Helped with telematics (including a rewards program) and homeowners pricing
+* Development and launch of a new product | Helped develop a new rental insurance product from ideation phase to implementation. I gained skills in various aspects including: product development, business case preparation, financial modelling, risk management, stakeholder management, systems development, marketing and product underwriting. 
+* Modelling | Worked on various modelling projects including: a new remuneration model for call centre staff in the direct business, policyholder survival predictive model, call centre capacity modelling.
+* Analytics | Various analytics tasks such as calculating minimum premium requirements, maximum sum insureds, assisting in budget forecasts, developing a new renewal process for the direct business, call centre capacity modelling, developing business retention strategies and providing insights and solutions on various other matters.
+* Monitoring | Built and managed processes through SQL, Python and PowerBI to ensure the continual monitoring of the direct business. Also responsible to present the results to business.
+
+### Academic background
+####Honours and Undergraduate degree in Actuarial Science 
+(Cum Laude with an 83% average and 86% average respectively)
+Jan 2015 – Dec 2019
+North West University, Potchefstroom Campus, South Africa.
+
+### Affilations
+I am currently a TASSA member of the Actuarial Society of South Africa (ASSA), with 10 actuarial exemptions.
+
+
+
 
 
 
