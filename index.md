@@ -6,7 +6,7 @@ I am a responsible, self-reliant and hardworking individual who is passionate ab
 
 I want to become a fully qualified actuary in the near future and I’m currently writing the last couple of actuarial exams. I want to work with people to provide innovative digital solutions to problems. 
 
-![Danielle](https://vDanielle24.github.com/images/Danielle.jpg)
+![Danielle](https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg)
 
 ```markdown
 Syntax highlighted code block
