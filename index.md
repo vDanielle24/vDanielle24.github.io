@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/vDanielle24/vDanielle24.github.io/blob/main/Danielle.jpg" width="270" height="380"/>
+<img src="https://raw.githubusercontent.com/vDanielle24/vDanielle24.github.io/main/Danielle.jpg" width="270" height="380"/>
 </p>
 
 ## A brief bio
